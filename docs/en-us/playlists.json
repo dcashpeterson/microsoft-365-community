@@ -1,0 +1,25 @@
+[
+  {
+    "Id": "e26f69f3-d4c1-4f66-b531-a9cb08e1b42d",
+    "Title": "Getting Started with Microfosft 365",
+    "Image": "",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "PnP",
+    "CatId": "5743b93d-8970-4b88-8843-13c5e82d925b",
+    "Description": "Learn some of the basics of Microsoft 365",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "c72d33ec-8990-427f-bac8-393e4825641d",
+      "a6e8c9c0-53cb-42c9-b3ee-184471e09214",
+      "01a6f400-89c0-4509-a0c7-fdf909b6ee60",
+      "17afe9c1-6ea4-4dac-98a2-25f45358eeb9",
+      "abfb7f67-9e69-43a4-8c97-c528e508a39a",
+      "627b8afe-2020-465b-bf68-65b9c76229f2",
+      "30cf1eaa-8805-46f6-b68e-66ce62628958"
+    ]
+  }
+]
